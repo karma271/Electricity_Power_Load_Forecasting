@@ -1,3 +1,5 @@
+# Electric Power Load Forecasting
+
 **Team Members:** Michael Roberts, Stacey Andreadakis, and Prasoon Karmacharya
 
 **NOTE**: For better experience please read this document with proper LaTeX rendering, [found here](./README.pdf). 
